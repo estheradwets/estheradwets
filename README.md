@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estheradwets
+- 👋 Hi,
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML,CSS, and JavaScript.
 
