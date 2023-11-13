@@ -1,5 +1,5 @@
-- 👋 Hi,
-- 👀 Welcome to this safe space, quite literally.👩🏿‍💻
+- 👋 Hi, and welcome. 
+- 👀 This is a safe space, quite literally.👩🏿‍💻
 
 <!---
 estheradwets/estheradwets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
